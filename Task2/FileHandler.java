@@ -17,4 +17,5 @@ public class FileHandler {
             System.out.println("Error while writing to file: " + e.getMessage());
         }
     }
+
 }
